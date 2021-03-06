@@ -44,3 +44,5 @@ document.querySelector('.btn--roll').addEventListener('click',function(){
         }
     }
 });
+
+console.log('test')
